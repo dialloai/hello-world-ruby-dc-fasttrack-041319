@@ -1,1 +1,1 @@
-puts "1" + "2"
+ruby hello_world.ruby
