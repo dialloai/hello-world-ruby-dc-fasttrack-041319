@@ -1,1 +1,1 @@
-"hello_world.RUBY_VERSION"
+puts "1" + "2"
